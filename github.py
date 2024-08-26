@@ -1,2 +1,2 @@
-print('hehehe')
+print('im sigmoooproper228')
 
