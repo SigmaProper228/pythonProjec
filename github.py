@@ -1,2 +1,2 @@
-print('im sigmoooproper228')
+print('poshli gylat >:D')
 
